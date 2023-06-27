@@ -11,6 +11,9 @@
 ## 2021年优秀项目
 https://github.com/BistuOpenSource/OSSDT2021
 
+## 2022年课程仓库
+https://github.com/Bistu-OSSDT-2022/
+
 ## 开源夏令营
 开源夏令营 中科院软件所“开源软件供应链点亮计划”OSPP  https://summer-ospp.ac.cn
 
