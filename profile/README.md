@@ -45,7 +45,10 @@ https://www.progit.cn/
 https://codewords.recurse.com/issues/two/git-from-the-inside-out
 
 ## 扩展资料
-电影：REVOLUTION OS( https://www.bilibili.com/video/av9512574 
+
+电影：REVOLUTION OS( https://www.bilibili.com/video/av9512574 ）
+
+电影：硅谷之火 （ https://www.bilibili.com/video/BV1XT4y1j7sx ）
 
 Open Source Guides(https://opensource.guide/zh-cn/)
 
@@ -57,7 +60,10 @@ MIT - The Missing Semester of Your CS Education https://missing-semester-cn.gith
 
 斯坦福大学 计算机导论CS101 https://online.stanford.edu/course/computer-science-101-self-paced
 
+康奈尔大学 CS 5152 (Fall 2019) - Open-Source Software Engineering  https://www.cs.cornell.edu/courses/cs5152/2019fa/
+
 ## 学习网站和工具
+
 https://www.freecodecamp.org/
 
 https://leetcode.com/
