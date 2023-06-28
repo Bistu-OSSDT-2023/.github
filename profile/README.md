@@ -64,21 +64,19 @@ MIT - The Missing Semester of Your CS Education https://missing-semester-cn.gith
 
 ## 学习网站和工具
 
-https://www.freecodecamp.org/
+https://www.freecodecamp.org/ 编程自学
 
-https://leetcode.com/
+https://leetcode.com/ 算法练习
 
-https://stackoverflow.com/
+https://stackoverflow.com/ 技术社区
 
-https://segmentfault.com/
+https://www.kaggle.com/ 算法竞赛
 
-https://www.kaggle.com/
+https://www.nowcoder.com/ 面试题库
 
-https://www.nowcoder.com/
+https://education.github.com/  教育免费工具
 
-https://education.github.com/
-
-https://www.jetbrains.com/student/
+https://www.jetbrains.com/student/ 教育免费工具
 
 廖雪峰 https://www.liaoxuefeng.com/
 
