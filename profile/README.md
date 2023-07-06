@@ -146,7 +146,7 @@ https://www.jetbrains.com/student/ 教育免费工具
  
  2022011174-邹燃 https://zou-ran.github.io/
  
- 2022011279-徐子洋- https://to pocket.GitHub.io/
+ 2022011279-徐子洋- https://topocket.GitHub.io/
  
  2022011136-朱浩然 https://zhuliuyuan.github.io
  
@@ -204,7 +204,7 @@ https://www.jetbrains.com/student/ 教育免费工具
  
  2022011102-杨楠 https://yangnan0101.github.io/
  
- 2022011226-孙莹 https：//abcdcfg.github.io
+ 2022011226-孙莹 https://abcdcfg.github.io
  
  2022011139-李梦飞 -https://limengfei24.github.io/
  
